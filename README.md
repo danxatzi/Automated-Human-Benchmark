@@ -1,4 +1,7 @@
 ﻿# Automated-Human-Benchmark
+
+ ![image](https://github.com/user-attachments/assets/d5b7acd3-107e-4600-bf7b-b12dfcca62b6)
+
 The automation mimics near-perfect human inputs to achieve top scores across various challenges, such as Reaction Time, Sequence Memory, Aim Trainer, and more.
 
 Automated browser interactions using Selenium
