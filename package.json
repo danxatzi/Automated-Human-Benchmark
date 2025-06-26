@@ -1,0 +1,8 @@
+{
+  "dependencies": {
+    "@tensorflow/tfjs": "^4.22.0",
+    "chromedriver": "^136.0.3",
+    "mocha": "^11.5.0",
+    "selenium-webdriver": "^4.33.0"
+  }
+}
